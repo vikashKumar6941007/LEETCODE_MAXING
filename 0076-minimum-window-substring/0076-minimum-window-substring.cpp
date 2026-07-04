@@ -1,8 +1,11 @@
 class Solution {
 public:
+// check for vector having another vector in it like a sub
     bool sahi(vector<int> &have, vector<int> &need){
     for(int i=0;i<256;i++)
-    {
+    {   
+        if(need[i]==0)
+        continue;
         if(have[i]<need[i])
         return false;
     }
