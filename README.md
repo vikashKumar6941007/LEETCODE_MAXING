@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/vikashKumar6941007/LEETCODE_MAXING/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vikashKumar6941007/LEETCODE_MAXING/tree/master/0142-linked-list-cycle-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/vikashKumar6941007/LEETCODE_MAXING/tree/master/0424-longest-repeating-character-replacement) |
+| [0904-fruit-into-baskets](https://github.com/vikashKumar6941007/LEETCODE_MAXING/tree/master/0904-fruit-into-baskets) |
 ## String
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/vikashKumar6941007/LEETCODE_MAXING/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/vikashKumar6941007/LEETCODE_MAXING/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/vikashKumar6941007/LEETCODE_MAXING/tree/master/0424-longest-repeating-character-replacement) |
+| [0904-fruit-into-baskets](https://github.com/vikashKumar6941007/LEETCODE_MAXING/tree/master/0904-fruit-into-baskets) |
 ## Linked List
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/vikashKumar6941007/LEETCODE_MAXING/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vikashKumar6941007/LEETCODE_MAXING/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/vikashKumar6941007/LEETCODE_MAXING/tree/master/0209-minimum-size-subarray-sum) |
+| [0904-fruit-into-baskets](https://github.com/vikashKumar6941007/LEETCODE_MAXING/tree/master/0904-fruit-into-baskets) |
 ## Math
 |  |
 | ------- |
