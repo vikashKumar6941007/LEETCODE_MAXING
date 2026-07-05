@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vikashKumar6941007/LEETCODE_MAXING/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vikashKumar6941007/LEETCODE_MAXING/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/vikashKumar6941007/LEETCODE_MAXING/tree/master/0076-minimum-window-substring) |
+| [0141-linked-list-cycle](https://github.com/vikashKumar6941007/LEETCODE_MAXING/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vikashKumar6941007/LEETCODE_MAXING/tree/master/0142-linked-list-cycle-ii) |
 ## String
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/vikashKumar6941007/LEETCODE_MAXING/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vikashKumar6941007/LEETCODE_MAXING/tree/master/0142-linked-list-cycle-ii) |
 ## Two Pointers
 |  |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/vikashKumar6941007/LEETCODE_MAXING/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/vikashKumar6941007/LEETCODE_MAXING/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vikashKumar6941007/LEETCODE_MAXING/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/vikashKumar6941007/LEETCODE_MAXING/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vikashKumar6941007/LEETCODE_MAXING/tree/master/0142-linked-list-cycle-ii) |
 ## Array
 |  |
