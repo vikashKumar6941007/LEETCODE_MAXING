@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/vikashKumar6941007/LEETCODE_MAXING/tree/master/0076-minimum-window-substring) |
+| [0142-linked-list-cycle-ii](https://github.com/vikashKumar6941007/LEETCODE_MAXING/tree/master/0142-linked-list-cycle-ii) |
 ## String
 |  |
 | ------- |
@@ -15,4 +16,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/vikashKumar6941007/LEETCODE_MAXING/tree/master/0076-minimum-window-substring) |
+## Linked List
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/vikashKumar6941007/LEETCODE_MAXING/tree/master/0142-linked-list-cycle-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/vikashKumar6941007/LEETCODE_MAXING/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
