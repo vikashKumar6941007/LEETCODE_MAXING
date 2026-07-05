@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/vikashKumar6941007/LEETCODE_MAXING/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vikashKumar6941007/LEETCODE_MAXING/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vikashKumar6941007/LEETCODE_MAXING/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/vikashKumar6941007/LEETCODE_MAXING/tree/master/0035-search-insert-position) |
 ## Math
 |  |
 | ------- |
@@ -55,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vikashKumar6941007/LEETCODE_MAXING/tree/master/0020-valid-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/vikashKumar6941007/LEETCODE_MAXING/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
