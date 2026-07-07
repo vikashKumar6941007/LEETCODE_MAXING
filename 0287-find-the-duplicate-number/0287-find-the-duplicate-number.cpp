@@ -3,10 +3,6 @@ public:
     int findDuplicate(vector<int>& nums) {
         //slow fast pointer in array using its indecies
 
-        int n = nums.size();
-        if (n == 0 or n == 1) {
-            return 0;
-        }
         int slow = 0, fast = 0;
 
         while (true) {
