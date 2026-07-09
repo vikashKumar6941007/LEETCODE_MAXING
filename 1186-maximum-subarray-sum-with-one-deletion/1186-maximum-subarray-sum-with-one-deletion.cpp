@@ -1,24 +1,35 @@
 class Solution {
 public:
-    int maximumSum(vector<int>& nums) {
+    int maximumSum(vector<int>& arr) {
 
-        int no_delete = nums[0];
-        int one_delete = INT_MIN;
-        int ans = nums[0];
+        // Think of it as Kadane with two lives:
 
-        for(int i = 1; i < nums.size(); i++) {
+        // keep: "I haven't used my deletion yet."
+        // drop: "I've already used my one deletion."
 
-            int prev_no = no_delete;
-            int prev_one = one_delete;
+        // At each element:
 
-            no_delete = max(nums[i], prev_no + nums[i]);
+        // keep behaves exactly like Kadane.
+        // drop either:
+        // extends a subarray where the deletion was already used, or
+        // uses the deletion right now by skipping the current element (keep
+        // from the previous position).
 
-            if(prev_one == INT_MIN)
-                one_delete = prev_no;
-            else
-                one_delete = max(prev_one + nums[i], prev_no);
+        int keep = arr[0];
+        int drop = 0;
 
-            ans = max(ans, max(no_delete, one_delete));
+        int ans = arr[0];
+
+        for (int i = 1; i < arr.size(); i++) {
+
+            int newKeep = max(arr[i], keep + arr[i]);
+
+            int newDrop = max(drop + arr[i], keep);
+            //having keep means arr[i] is the dropped one
+            keep = newKeep;
+            drop = newDrop;
+
+            ans = max(ans, max(keep, drop));
         }
 
         return ans;
