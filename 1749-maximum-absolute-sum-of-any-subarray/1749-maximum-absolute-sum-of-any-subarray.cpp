@@ -1,25 +1,24 @@
 class Solution {
 public:
     int maxAbsoluteSum(vector<int>& nums) {
-        //kadane's algo just taking absolute in the end thats it
+        // kadane's algo just taking absolute in the end thats it
 
-        int min_sum=nums[0];
-        int max_sum=nums[0];
-        int ans=abs(nums[0]);
+        int min_sum = nums[0];
+        int max_sum = nums[0];
+        // if array has only one element then that will be the ansit doesn't
+        // matter +ive or -ve because we need absolute of it
+        int ans = abs(nums[0]);
 
-        for(int i=1;i<nums.size();i++){
-            
-            
-            int min_val=min_sum;
-            int max_val=max_sum;
+        for (int i = 1; i < nums.size(); i++) {
 
-            min_sum=min(min_val+nums[i],nums[i]);
-            max_sum=max(max_val+nums[i],nums[i]);
+            int min_val = min_sum;
+            int max_val = max_sum;
 
-            ans=max(ans,max(abs(min_sum),abs(max_sum)));
+            min_sum = min(min_val + nums[i], nums[i]);
+            max_sum = max(max_val + nums[i], nums[i]);
 
+            ans = max(ans, max(abs(min_sum), abs(max_sum)));
         }
         return ans;
-        
     }
 };
