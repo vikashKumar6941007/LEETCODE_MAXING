@@ -11,8 +11,7 @@ public:
 
             sum+=nums[i];
             int ques=(sum-k);
-            int freq= mp[ques];
-            res+=freq;
+            res+= mp[ques];
             mp[sum]++;
         }
         return res;
