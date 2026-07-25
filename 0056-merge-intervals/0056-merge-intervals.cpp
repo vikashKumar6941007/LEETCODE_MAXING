@@ -2,7 +2,7 @@ class Solution {
 public:
     vector<vector<int>> merge(vector<vector<int>>& arr) {
 
-        //sorting the arr according to start point
+        //sorting the arr according to start point by default
         sort(arr.begin(),arr.end());
 
         //response vector of vector
