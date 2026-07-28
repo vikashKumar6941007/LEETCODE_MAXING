@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/vikashKumar6941007/LEETCODE_MAXING/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vikashKumar6941007/LEETCODE_MAXING/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/vikashKumar6941007/LEETCODE_MAXING/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/vikashKumar6941007/LEETCODE_MAXING/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/vikashKumar6941007/LEETCODE_MAXING/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vikashKumar6941007/LEETCODE_MAXING/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/vikashKumar6941007/LEETCODE_MAXING/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vikashKumar6941007/LEETCODE_MAXING/tree/master/0020-valid-parentheses) |
+| [0739-daily-temperatures](https://github.com/vikashKumar6941007/LEETCODE_MAXING/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vikashKumar6941007/LEETCODE_MAXING/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Binary Search
 |  |
@@ -155,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/vikashKumar6941007/LEETCODE_MAXING/tree/master/0986-interval-list-intersections) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/vikashKumar6941007/LEETCODE_MAXING/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
