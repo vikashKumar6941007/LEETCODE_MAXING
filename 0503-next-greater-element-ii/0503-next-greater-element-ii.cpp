@@ -32,6 +32,7 @@ public:
             }
 
             // Push current element for future comparisons (filling the stack for later use when original indices arrives)
+            // we can do this also by filling the stack with all elements except the last one, but this one more efficient bcz we are using only one for loop
             st.push(nums[idx]);
         }
 
