@@ -2,20 +2,25 @@ class Solution {
 public:
     bool canConstruct(string ransomNote, string magazine) {
 
-        unordered_map<char,int> mp;
-        for(auto i : magazine){
-            mp[i]++;
+        // Store the frequency of characters in magazine
+        unordered_map<char, int> mp;
+
+        for (char c : magazine) {
+            mp[c]++;
         }
-        for(int i=0;i<ransomNote.size();i++){
-            if(mp[ransomNote[i]]<1){
+
+        // Check whether every character of ransomNote exists
+        for (int i = 0; i < ransomNote.size(); i++) {
+
+            // Character is unavailable
+            if (mp[ransomNote[i]] < 1) {
                 return false;
             }
-            else{
-                mp[ransomNote[i]]--;
-            }
+
+            // Use one occurrence of the character
+            mp[ransomNote[i]]--;
         }
 
         return true;
-        
     }
 };
