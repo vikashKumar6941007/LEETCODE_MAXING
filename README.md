@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vikashKumar6941007/LEETCODE_MAXING/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/vikashKumar6941007/LEETCODE_MAXING/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/vikashKumar6941007/LEETCODE_MAXING/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/vikashKumar6941007/LEETCODE_MAXING/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## Sliding Window
 |  |
 | ------- |
